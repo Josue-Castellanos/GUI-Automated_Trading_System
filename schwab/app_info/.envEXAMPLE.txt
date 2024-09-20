@@ -1,0 +1,11 @@
+accessTokenDateTime = %Y-%m-%d %H:%M:%S
+refreshTokenDateTime = %Y-%m-%d %H:%M:%S
+jsonDict = None
+accessToken = None
+refreshToken = None
+idToken = None
+refreshTokenTimeout = 7 # in days
+accessTokenTimeout = 1800 # in seconds
+appKey = Your App key here
+secretKey = Your Secret key here
+accountNumber = Your account here
